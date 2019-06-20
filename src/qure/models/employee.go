@@ -3,7 +3,7 @@ package models
 import (
 	"database/sql"
 	"fmt"
-	"test-api/db"
+	"qure/db"
 )
 
 type Employee struct {

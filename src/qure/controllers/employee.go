@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/labstack/echo"
 	"net/http"
-	"test-api/models"
+	"qure/models"
 )
 
 func GetEmployee(c echo.Context) error {
